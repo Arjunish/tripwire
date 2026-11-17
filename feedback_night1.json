@@ -1,0 +1,11 @@
+{
+  "ownership|Halden Radar Systems|Jinlong Holdings Group": {
+    "verdict": "confirm",
+    "note": "Supplier confirmed by email. Treat Halden as part of Jinlong."
+  },
+  "same_entity|Brightwave Electronics|Brightwave Industrial Co., Ltd.": {
+    "verdict": "reject",
+    "reason": "country_mismatch",
+    "note": "Different company. Our Brightwave is Taiwanese and unrelated."
+  }
+}

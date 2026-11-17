@@ -1,0 +1,24 @@
+{
+  "Halden Radar Systems": {
+    "country": "Singapore",
+    "parent": null,
+    "hints": [
+      {
+        "entity": "Jinlong Holdings Group",
+        "evidence": "Halden's managing director is also listed as a director of Jinlong Microwave Co., a Jinlong subsidiary (corporate registry, 2025)."
+      }
+    ]
+  },
+  "Brightwave Electronics": {"country": "Taiwan", "parent": null, "hints": []},
+  "Arcturus Micro": {"country": "United States", "parent": null, "hints": []},
+  "Ostrava Wireless": {"country": "Czech Republic", "parent": null, "hints": []},
+  "Voltreon Energy": {"country": "South Korea", "parent": null, "hints": []},
+  "NovaFix Positioning": {"country": "Switzerland", "parent": null, "hints": []},
+  "Lumora Imaging": {"country": "France", "parent": null, "hints": []},
+  "Kessel Motors": {"country": "Germany", "parent": null, "hints": []},
+  "Tamsin Power": {"country": "Vietnam", "parent": null, "hints": []},
+  "Corwin Composites": {"country": "United States", "parent": null, "hints": []},
+  "Polaris Optics": {"country": "Japan", "parent": null, "hints": []},
+  "Jinlong Holdings Group": {"country": "China", "parent": "Corvane Capital Partners", "hints": []},
+  "Corvane Capital Partners": {"country": "Cayman Islands", "parent": null, "hints": []}
+}

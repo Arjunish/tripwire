@@ -1,0 +1,26 @@
+[
+  {
+    "type": "blacklist_add",
+    "entity": "Jinlong Holdings Group",
+    "country": "China",
+    "list": "Entity List (simulated)",
+    "effective_date": "2026-11-15",
+    "source": "Federal Register (simulated)"
+  },
+  {
+    "type": "blacklist_add",
+    "entity": "Brightwave Industrial Co., Ltd.",
+    "country": "China",
+    "list": "Entity List (simulated)",
+    "effective_date": "2026-11-15",
+    "source": "Federal Register (simulated)"
+  },
+  {
+    "type": "lifecycle",
+    "part_mpn": "LINK-900",
+    "status": "End of Life",
+    "note": "Last-time buy closes 2026-12-31",
+    "effective_date": "2026-11-15",
+    "source": "Ostrava Wireless product change notice (simulated)"
+  }
+]

@@ -1,0 +1,21 @@
+product,part_mpn,description,supplier,qty_per_unit,stock_on_hand,weekly_usage,alternates
+Kestrel Sentinel,RDR-24G,24 GHz radar module,Halden Radar Systems,1,120,20,"RDR-24X (Arcturus Micro), SR-240 (NovaFix Positioning)"
+Kestrel Sentinel,CAM-4K,4K gimbal camera,Brightwave Electronics,1,90,20,
+Kestrel Sentinel,THM-640,Thermal camera,Lumora Imaging,1,60,20,
+Kestrel Sentinel,FCU-H7,Flight controller,Arcturus Micro,1,300,20,
+Kestrel Sentinel,IMU-9X,Inertial sensor,Arcturus Micro,1,400,20,
+Kestrel Sentinel,LINK-900,900 MHz telemetry radio,Ostrava Wireless,1,70,20,"LINK-915 (Ostrava Wireless)"
+Kestrel Sentinel,ANT-DUAL,Dual-band antenna,Ostrava Wireless,2,500,40,
+Kestrel Sentinel,BAT-6S,6S battery pack,Voltreon Energy,2,500,40,
+Kestrel Sentinel,MTR-4114,Brushless motor,Kessel Motors,4,800,80,
+Kestrel Sentinel,ESC-60A,Motor speed controller,Tamsin Power,4,600,80,
+Kestrel Sentinel,GNSS-M10,RTK GNSS receiver,NovaFix Positioning,1,200,20,
+Kestrel Sentinel,FRM-CF,Carbon fiber frame,Corwin Composites,1,150,20,
+Kestrel Mapper,CAM-4K,4K gimbal camera,Brightwave Electronics,1,90,15,
+Kestrel Mapper,LDR-32,32-beam lidar,Polaris Optics,1,80,15,
+Kestrel Mapper,GNSS-M10,RTK GNSS receiver,NovaFix Positioning,1,200,15,
+Kestrel Mapper,FCU-H7,Flight controller,Arcturus Micro,1,300,15,
+Kestrel Mapper,BAT-6S,6S battery pack,Voltreon Energy,2,500,30,
+Kestrel Mapper,MTR-2820,Brushless motor,Kessel Motors,4,700,60,
+Kestrel Mapper,ESC-40A,Motor speed controller,Tamsin Power,4,500,60,
+Kestrel Mapper,FRM-AL,Aluminum frame,Corwin Composites,1,120,15,

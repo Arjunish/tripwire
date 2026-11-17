@@ -1,0 +1,18 @@
+[
+  {
+    "type": "blacklist_add",
+    "entity": "Corvane Capital Partners",
+    "country": "Cayman Islands",
+    "list": "SDN List (simulated)",
+    "effective_date": "2026-11-16",
+    "source": "Treasury OFAC (simulated)"
+  },
+  {
+    "type": "blacklist_add",
+    "entity": "Brightwave Trading Ltd",
+    "country": "China",
+    "list": "Entity List (simulated)",
+    "effective_date": "2026-11-16",
+    "source": "Federal Register (simulated)"
+  }
+]
